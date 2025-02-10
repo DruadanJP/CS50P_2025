@@ -47,11 +47,11 @@
 ### The Following is WiP:
 
 ### [Week 4](/Week%204/) - [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/)
-- [Emojize]
-- [Frank, Ian and Glen's Letters]
-- [Adieu, Adieu]
-- [Guessing Game]
-- [Little Professor]
+- [Emojize](Week%204/emojize.py)
+- [Frank, Ian and Glen's Letters](Week%204/figlet.py)
+- [Adieu, Adieu](Week%204/adieu.py)
+- [Guessing Game](Week%204/game.py)
+- [Little Professor](Week%204/professor.py)
 - [Bitcoin Price Index]
 
 ### [Week 5](/Week%205/) - [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/)
