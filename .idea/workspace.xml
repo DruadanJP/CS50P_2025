@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b24d8e4f-5bae-4a01-a23d-00668737d7aa" name="Changes" comment="Changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DruadanJP&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DruadanJP/CS50P_2025.git&quot;,
+    &quot;accountId&quot;: &quot;5237a1e8-9205-4dfd-9a03-f11a7e6eaf3e&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2sJAP4gMmzKIbzrBxrGsBdmWseZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lecture.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Testing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Week 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Week 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.adieu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bank.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bee.executor&quot;: &quot;Run&quot;,
+    &quot;Python.camelCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coke.executor&quot;: &quot;Run&quot;,
+    &quot;Python.compare.executor&quot;: &quot;Run&quot;,
+    &quot;Python.deep.executor&quot;: &quot;Run&quot;,
+    &quot;Python.distances.executor&quot;: &quot;Run&quot;,
+    &quot;Python.emojize.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.faces.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.figlet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fuel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grocery.executor&quot;: &quot;Run&quot;,
+    &quot;Python.house.executor&quot;: &quot;Run&quot;,
+    &quot;Python.indoor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.interpreter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.meal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nutrition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.outdated.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parity.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playback.executor&quot;: &quot;Run&quot;,
+    &quot;Python.professor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.taqueria.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tip.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train.executor&quot;: &quot;Run&quot;,
+    &quot;Python.twttr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Übung.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week 1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
+        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b24d8e4f-5bae-4a01-a23d-00668737d7aa" name="Changes" comment="" />
+      <created>1738163276239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738163276239</updated>
+      <workItem from="1738163277267" duration="90000" />
+      <workItem from="1738163413917" duration="209000" />
+      <workItem from="1738163735368" duration="1299000" />
+      <workItem from="1738277700107" duration="12855000" />
+      <workItem from="1738315587369" duration="2031000" />
+      <workItem from="1738387640907" duration="108000" />
+      <workItem from="1738466658821" duration="3557000" />
+      <workItem from="1738470752483" duration="11045000" />
+      <workItem from="1738549537029" duration="9338000" />
+      <workItem from="1738584710511" duration="6319000" />
+      <workItem from="1738639575137" duration="16312000" />
+      <workItem from="1738715978916" duration="37667000" />
+      <workItem from="1738937887320" duration="6606000" />
+      <workItem from="1739064594473" duration="52000" />
+      <workItem from="1739149645303" duration="277000" />
+      <workItem from="1739149976653" duration="854000" />
+      <workItem from="1739150895783" duration="26096000" />
+      <workItem from="1739185121687" duration="346000" />
+    </task>
+    <task id="LOCAL-00001" summary="Hierarchy Changes">
+      <option name="closed" value="true" />
+      <created>1738970976056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738970976056</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1738971798216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738971798216</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hierarchy Changes" />
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Week 1/house.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CS50P_Course$Lecture.coverage" NAME="Lecture Coverage Results" MODIFIED="1738838552331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4 - Exceptions" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$grade.coverage" NAME="grade Coverage Results" MODIFIED="1738469143576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$tip.coverage" NAME="tip Coverage Results" MODIFIED="1738387658621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$twttr.coverage" NAME="twttr Coverage Results" MODIFIED="1738827694701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$indoor.coverage" NAME="indoor Coverage Results" MODIFIED="1738387722607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$Übung.coverage" NAME="Übung Coverage Results" MODIFIED="1738553891833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$taqueria.coverage" NAME="taqueria Coverage Results" MODIFIED="1738902354781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4 - Exceptions" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$camelCase.coverage" NAME="camelCase Coverage Results" MODIFIED="1738716499250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1738315609770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$nutrition.coverage" NAME="nutrition Coverage Results" MODIFIED="1738827335068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$house.coverage" NAME="house Coverage Results" MODIFIED="1738470910059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$coke.coverage" NAME="coke Coverage Results" MODIFIED="1738720641990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$game.coverage" NAME="game Coverage Results" MODIFIED="1739164328855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$Week_3.coverage" NAME="Week 3 Coverage Results" MODIFIED="1738587565757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$adieu.coverage" NAME="adieu Coverage Results" MODIFIED="1739162125077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$lists.coverage" NAME="lists Coverage Results" MODIFIED="1738647488613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$deep.coverage" NAME="deep Coverage Results" MODIFIED="1738476083926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$figlet.coverage" NAME="figlet Coverage Results" MODIFIED="1739160890631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$bee.coverage" NAME="bee Coverage Results" MODIFIED="1738640277630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$compare.coverage" NAME="compare Coverage Results" MODIFIED="1738467840437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$for_loops.coverage" NAME="for loops Coverage Results" MODIFIED="1738641354864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$Week_1.coverage" NAME="Week 1 Coverage Results" MODIFIED="1738316162431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$Testing.coverage" NAME="Testing Coverage Results" MODIFIED="1738938393148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$grocery.coverage" NAME="grocery Coverage Results" MODIFIED="1739149859668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$meal.coverage" NAME="meal Coverage Results" MODIFIED="1738496951700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$faces.coverage" NAME="faces Coverage Results" MODIFIED="1738387698076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$fuel.coverage" NAME="fuel Coverage Results" MODIFIED="1738850998126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4 - Exceptions" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$bank.coverage" NAME="bank Coverage Results" MODIFIED="1738552700567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$train.coverage" NAME="train Coverage Results" MODIFIED="1738818849562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$interpreter.coverage" NAME="interpreter Coverage Results" MODIFIED="1738480750432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$plates.coverage" NAME="plates Coverage Results" MODIFIED="1738823204538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$emojize.coverage" NAME="emojize Coverage Results" MODIFIED="1739151314821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$outdated.coverage" NAME="outdated Coverage Results" MODIFIED="1738911120275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4 - Exceptions" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$extension.coverage" NAME="extension Coverage Results" MODIFIED="1738479408296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$distances.coverage" NAME="distances Coverage Results" MODIFIED="1738592211578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$professor.coverage" NAME="professor Coverage Results" MODIFIED="1739182088170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$playback.coverage" NAME="playback Coverage Results" MODIFIED="1738292510433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$Calculator.coverage" NAME="Calculator Coverage Results" MODIFIED="1738281693763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$parity.coverage" NAME="parity Coverage Results" MODIFIED="1738469862696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
+  </component>
+</project>
