@@ -44,7 +44,6 @@
 - [Grocery List](Week%203/grocery.py)
 - [Outdated](Week%203/outdated.py)
 
-### The Following is WiP:
 
 ### [Week 4](/Week%204/) - [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/)
 - [Emojize](Week%204/emojize.py)
@@ -52,12 +51,15 @@
 - [Adieu, Adieu](Week%204/adieu.py)
 - [Guessing Game](Week%204/game.py)
 - [Little Professor](Week%204/professor.py)
-- [Bitcoin Price Index]
+- [Bitcoin Price Index](Week%204/bitcoin.py)
+
+### The Following is WiP:
+
 
 ### [Week 5](/Week%205/) - [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/)
-- [Testing my twttr]
-- [Back to the Bank]
-- [Re-requesting a Vanity Plate]
+- [Testing my twttr](Week%205/test_twttr.py)
+- [Back to the Bank](Week%205/test_bank.py)
+- [Re-requesting a Vanity Plate](Week%205/test_plates.py)
 - [Refueling]
 
 ### [Week 6](/Week%206/) - [File I/O](https://cs50.harvard.edu/python/2022/weeks/6/)

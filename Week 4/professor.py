@@ -1,6 +1,4 @@
 import random
-
-
 def main():
     level = get_level()
     z = 10  # Math Questions

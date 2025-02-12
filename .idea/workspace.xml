@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b24d8e4f-5bae-4a01-a23d-00668737d7aa" name="Changes" comment="Changes" />
+    <list default="true" id="b24d8e4f-5bae-4a01-a23d-00668737d7aa" name="Changes" comment="Updates">
+      <change afterPath="$PROJECT_DIR$/.idea/CS50P Course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4/bitcoin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 5/plates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 5/test_plates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4/professor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/professor.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,63 +54,105 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lecture.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Testing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Week 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Week 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.adieu.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bank.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bee.executor&quot;: &quot;Run&quot;,
-    &quot;Python.camelCase.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coke.executor&quot;: &quot;Run&quot;,
-    &quot;Python.compare.executor&quot;: &quot;Run&quot;,
-    &quot;Python.deep.executor&quot;: &quot;Run&quot;,
-    &quot;Python.distances.executor&quot;: &quot;Run&quot;,
-    &quot;Python.emojize.executor&quot;: &quot;Run&quot;,
-    &quot;Python.extension.executor&quot;: &quot;Run&quot;,
-    &quot;Python.faces.executor&quot;: &quot;Run&quot;,
-    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.figlet.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fuel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.grade.executor&quot;: &quot;Run&quot;,
-    &quot;Python.grocery.executor&quot;: &quot;Run&quot;,
-    &quot;Python.house.executor&quot;: &quot;Run&quot;,
-    &quot;Python.indoor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.interpreter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.meal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nutrition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.outdated.executor&quot;: &quot;Run&quot;,
-    &quot;Python.parity.executor&quot;: &quot;Run&quot;,
-    &quot;Python.plates.executor&quot;: &quot;Run&quot;,
-    &quot;Python.playback.executor&quot;: &quot;Run&quot;,
-    &quot;Python.professor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.taqueria.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tip.executor&quot;: &quot;Run&quot;,
-    &quot;Python.train.executor&quot;: &quot;Run&quot;,
-    &quot;Python.twttr.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Übung.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python tests.Python tests in test_calculator.py.executor": "Run",
+    "Python tests.Python tests in test_hello.py.executor": "Run",
+    "Python tests.pytest for test_plates.test_alpha.executor": "Run",
+    "Python tests.pytest in test_bank.py.executor": "Run",
+    "Python tests.pytest in test_plates.py.executor": "Run",
+    "Python tests.pytest in test_twttr.py.executor": "Run",
+    "Python.Calculator.executor": "Run",
+    "Python.Lecture.executor": "Run",
+    "Python.Testing.executor": "Run",
+    "Python.Week 1.executor": "Run",
+    "Python.Week 3.executor": "Run",
+    "Python.adieu.executor": "Run",
+    "Python.bank.executor": "Run",
+    "Python.bee.executor": "Run",
+    "Python.bitcoin.executor": "Run",
+    "Python.camelCase.executor": "Run",
+    "Python.coke.executor": "Run",
+    "Python.compare.executor": "Run",
+    "Python.deep.executor": "Run",
+    "Python.distances.executor": "Run",
+    "Python.emojize.executor": "Run",
+    "Python.extension.executor": "Run",
+    "Python.faces.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.figlet.executor": "Run",
+    "Python.for loops.executor": "Run",
+    "Python.fuel.executor": "Run",
+    "Python.game.executor": "Run",
+    "Python.grade.executor": "Run",
+    "Python.grocery.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.house.executor": "Run",
+    "Python.indoor.executor": "Run",
+    "Python.interpreter.executor": "Run",
+    "Python.lists.executor": "Run",
+    "Python.meal.executor": "Run",
+    "Python.nutrition.executor": "Run",
+    "Python.outdated.executor": "Run",
+    "Python.parity.executor": "Run",
+    "Python.plates.executor": "Run",
+    "Python.playback.executor": "Run",
+    "Python.professor.executor": "Run",
+    "Python.taqueria.executor": "Run",
+    "Python.test_calculator.executor": "Run",
+    "Python.tip.executor": "Run",
+    "Python.train.executor": "Run",
+    "Python.twttr.executor": "Run",
+    "Python.Übung.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/marvintalbot/PycharmProjects/CS50P Course/Week 5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week 5" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
       <recent name="$PROJECT_DIR$/Week 1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="pytest for test_plates.test_alpha" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="CS50P Course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_plates.test_alpha&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_plates.test_alpha" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -135,7 +187,9 @@
       <workItem from="1739149645303" duration="277000" />
       <workItem from="1739149976653" duration="854000" />
       <workItem from="1739150895783" duration="26096000" />
-      <workItem from="1739185121687" duration="346000" />
+      <workItem from="1739185121687" duration="576000" />
+      <workItem from="1739319535561" duration="7019000" />
+      <workItem from="1739327927334" duration="7889000" />
     </task>
     <task id="LOCAL-00001" summary="Hierarchy Changes">
       <option name="closed" value="true" />
@@ -153,16 +207,44 @@
       <option name="project" value="LOCAL" />
       <updated>1738971798216</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updates">
+      <option name="closed" value="true" />
+      <created>1739185570037</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739185570037</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updates">
+      <option name="closed" value="true" />
+      <created>1739185664350</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739185664350</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hierarchy Changes" />
     <MESSAGE value="Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -179,15 +261,18 @@
     <SUITE FILE_PATH="coverage/CS50P_Course$Lecture.coverage" NAME="Lecture Coverage Results" MODIFIED="1738838552331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4 - Exceptions" />
     <SUITE FILE_PATH="coverage/CS50P_Course$grade.coverage" NAME="grade Coverage Results" MODIFIED="1738469143576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
     <SUITE FILE_PATH="coverage/CS50P_Course$tip.coverage" NAME="tip Coverage Results" MODIFIED="1738387658621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
-    <SUITE FILE_PATH="coverage/CS50P_Course$twttr.coverage" NAME="twttr Coverage Results" MODIFIED="1738827694701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$twttr.coverage" NAME="twttr Coverage Results" MODIFIED="1739331184806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5" />
     <SUITE FILE_PATH="coverage/CS50P_Course$indoor.coverage" NAME="indoor Coverage Results" MODIFIED="1738387722607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
     <SUITE FILE_PATH="coverage/CS50P_Course$Übung.coverage" NAME="Übung Coverage Results" MODIFIED="1738553891833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
     <SUITE FILE_PATH="coverage/CS50P_Course$taqueria.coverage" NAME="taqueria Coverage Results" MODIFIED="1738902354781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4 - Exceptions" />
     <SUITE FILE_PATH="coverage/CS50P_Course$camelCase.coverage" NAME="camelCase Coverage Results" MODIFIED="1738716499250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
     <SUITE FILE_PATH="coverage/CS50P_Course$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1738315609770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
     <SUITE FILE_PATH="coverage/CS50P_Course$nutrition.coverage" NAME="nutrition Coverage Results" MODIFIED="1738827335068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$pytest_for_test_plates_test_alpha.coverage" NAME="pytest for test_plates.test_alpha Coverage Results" MODIFIED="1739335769040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5" />
     <SUITE FILE_PATH="coverage/CS50P_Course$house.coverage" NAME="house Coverage Results" MODIFIED="1738470910059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$pytest_in_test_bank_py.coverage" NAME="pytest in test_bank.py Coverage Results" MODIFIED="1739334251989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5" />
     <SUITE FILE_PATH="coverage/CS50P_Course$coke.coverage" NAME="coke Coverage Results" MODIFIED="1738720641990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$hello.coverage" NAME="hello Coverage Results" MODIFIED="1739327251283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5" />
     <SUITE FILE_PATH="coverage/CS50P_Course$game.coverage" NAME="game Coverage Results" MODIFIED="1739164328855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
     <SUITE FILE_PATH="coverage/CS50P_Course$Week_3.coverage" NAME="Week 3 Coverage Results" MODIFIED="1738587565757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
     <SUITE FILE_PATH="coverage/CS50P_Course$adieu.coverage" NAME="adieu Coverage Results" MODIFIED="1739162125077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
@@ -203,17 +288,22 @@
     <SUITE FILE_PATH="coverage/CS50P_Course$meal.coverage" NAME="meal Coverage Results" MODIFIED="1738496951700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
     <SUITE FILE_PATH="coverage/CS50P_Course$faces.coverage" NAME="faces Coverage Results" MODIFIED="1738387698076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
     <SUITE FILE_PATH="coverage/CS50P_Course$fuel.coverage" NAME="fuel Coverage Results" MODIFIED="1738850998126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4 - Exceptions" />
-    <SUITE FILE_PATH="coverage/CS50P_Course$bank.coverage" NAME="bank Coverage Results" MODIFIED="1738552700567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$bank.coverage" NAME="bank Coverage Results" MODIFIED="1739334056148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5" />
     <SUITE FILE_PATH="coverage/CS50P_Course$train.coverage" NAME="train Coverage Results" MODIFIED="1738818849562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$bitcoin.coverage" NAME="bitcoin Coverage Results" MODIFIED="1739320873163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
     <SUITE FILE_PATH="coverage/CS50P_Course$interpreter.coverage" NAME="interpreter Coverage Results" MODIFIED="1738480750432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
-    <SUITE FILE_PATH="coverage/CS50P_Course$plates.coverage" NAME="plates Coverage Results" MODIFIED="1738823204538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$.coverage" NAME=" Coverage Results" MODIFIED="1739327753212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/CS50P_Course$emojize.coverage" NAME="emojize Coverage Results" MODIFIED="1739151314821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$plates.coverage" NAME="plates Coverage Results" MODIFIED="1739336124291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5" />
     <SUITE FILE_PATH="coverage/CS50P_Course$outdated.coverage" NAME="outdated Coverage Results" MODIFIED="1738911120275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4 - Exceptions" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$test_calculator.coverage" NAME="test_calculator Coverage Results" MODIFIED="1739325836079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$pytest_in_test_twttr_py.coverage" NAME="pytest in test_twttr.py Coverage Results" MODIFIED="1739331195387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5" />
     <SUITE FILE_PATH="coverage/CS50P_Course$extension.coverage" NAME="extension Coverage Results" MODIFIED="1738479408296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
     <SUITE FILE_PATH="coverage/CS50P_Course$distances.coverage" NAME="distances Coverage Results" MODIFIED="1738592211578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3 - Loops" />
     <SUITE FILE_PATH="coverage/CS50P_Course$professor.coverage" NAME="professor Coverage Results" MODIFIED="1739182088170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
     <SUITE FILE_PATH="coverage/CS50P_Course$playback.coverage" NAME="playback Coverage Results" MODIFIED="1738292510433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
     <SUITE FILE_PATH="coverage/CS50P_Course$Calculator.coverage" NAME="Calculator Coverage Results" MODIFIED="1738281693763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
+    <SUITE FILE_PATH="coverage/CS50P_Course$pytest_in_test_plates_py.coverage" NAME="pytest in test_plates.py Coverage Results" MODIFIED="1739336158518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5" />
     <SUITE FILE_PATH="coverage/CS50P_Course$parity.coverage" NAME="parity Coverage Results" MODIFIED="1738469862696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
   </component>
 </project>
