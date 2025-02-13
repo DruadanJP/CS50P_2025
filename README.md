@@ -53,14 +53,13 @@
 - [Little Professor](Week%204/professor.py)
 - [Bitcoin Price Index](Week%204/bitcoin.py)
 
-### The Following is WiP:
-
-
 ### [Week 5](/Week%205/) - [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/)
 - [Testing my twttr](Week%205/test_twttr.py)
 - [Back to the Bank](Week%205/test_bank.py)
 - [Re-requesting a Vanity Plate](Week%205/test_plates.py)
-- [Refueling]
+- [Refueling](Week%205/test_fuel.py)
+
+### The Following is WiP:
 
 ### [Week 6](/Week%206/) - [File I/O](https://cs50.harvard.edu/python/2022/weeks/6/)
 - [Lines of Code]
