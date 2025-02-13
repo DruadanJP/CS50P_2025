@@ -3,17 +3,18 @@ def main():
     if time.endswith("a.m."):
         time = convert(time)
         if 7 <= time <= 8:
-                print("breakfast time")
+            print("breakfast time")
         if 12 <= time <= 13:
-                print ("lunch time")
+            print("lunch time")
     elif time.endswith("p.m."):
         time = convert(time)
         if 6 <= time <= 7:
-                print("dinner time")
-    
+            print("dinner time")
+
+
 def convert(time):
     if "a.m." in time:
-        time = time.replace("a.m.", "") # Remove "a.m."
+        time = time.replace("a.m.", "")  # Remove "a.m."
     elif "p.m." in time:
         time = time.replace(" p.m.", "")  # Remove "p.m."
     hours, minutes = time.split(":")

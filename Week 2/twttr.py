@@ -8,9 +8,13 @@ def main():
     # Loop through each vowel in the string "aeiou"
     for char in vowels:
         # Replace every occurrence of the vowel in 'text' with an empty string (removing it)
-        text = text.replace(char, "",)
+        text = text.replace(
+            char,
+            "",
+        )
 
     # Print the modified text after all vowels are removed
     print(text, end="")
+
 
 main()

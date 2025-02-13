@@ -1,5 +1,7 @@
 import inflect
+
 p = inflect.engine()
+
 
 def main():
     name_list = []
@@ -11,6 +13,5 @@ def main():
     print(f"Adieu, adieu, to", p.join(name_list))
 
 
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

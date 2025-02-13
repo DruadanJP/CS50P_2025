@@ -7,4 +7,5 @@ def main():
     else:
         print("$0")
 
+
 main()

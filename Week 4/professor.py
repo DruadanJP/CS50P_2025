@@ -1,4 +1,6 @@
 import random
+
+
 def main():
     level = get_level()
     z = 10  # Math Questions
@@ -31,7 +33,6 @@ def main():
         z -= 1  # Decrement the question counter
 
     print(f"Score: {points}")
-
 
 
 def get_level():

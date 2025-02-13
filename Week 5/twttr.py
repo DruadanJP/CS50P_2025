@@ -11,7 +11,10 @@ def shorten(word):
     # Loop through each vowel in the string "aeiou"
     for char in vowels:
         # Replace every occurrence of the vowel in 'text' with an empty string (removing it)
-        word = word.replace(char,"",)
+        word = word.replace(
+            char,
+            "",
+        )
     # Print the modified text after all vowels are removed
     return word
 

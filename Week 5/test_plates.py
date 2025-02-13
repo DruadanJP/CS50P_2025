@@ -16,12 +16,15 @@ def test_endint():
 def test_middleint():
     assert is_valid("AA33AA") != True
 
+
 def test_lenght():
     assert is_valid("A") != True
+
 
 def test_alpha():
     assert is_valid("AA1") == True
     assert is_valid("AA#1") == False
-    
+
+
 def test_zero():
     assert is_valid("AA0333") == False

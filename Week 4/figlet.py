@@ -1,4 +1,4 @@
-#Expects zero or two command-line arguments:
+# Expects zero or two command-line arguments:
 # Zero if the user would like to output text in a random font.
 # Two if the user would like to output text in a specific font, in which case the first of the two should be -f or --font, and the second of the two should be the name of the font.
 # Prompts the user for a str of text.
@@ -24,7 +24,7 @@ elif len(sys.argv) == 3:
     if sys.argv[2] not in ff:
         sys.exit("Invalid usage")
     else:
-        user_input = input('Input: ')
+        user_input = input("Input: ")
         figlet.setFont(font=sys.argv[2])
         user_output = figlet.renderText(user_input)
         print(user_output)

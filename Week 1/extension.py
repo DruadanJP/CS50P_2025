@@ -6,8 +6,8 @@ def main():
     if filename.endswith(".gif"):
         mediatype = "gif"
         print(f"image/{mediatype}")
-        
-     # Check if the file ends with ".jpg"
+
+    # Check if the file ends with ".jpg"
     elif filename.endswith(".jpg") or filename.endswith(".jpeg"):
         mediatype = "jpeg"
         print(f"image/{mediatype}")
@@ -34,5 +34,6 @@ def main():
         # Check else
     else:
         print("application/octet-stream")
+
 
 main()
