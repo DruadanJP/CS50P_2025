@@ -67,6 +67,8 @@
 - [Scourgify](Week%206/scourgify.py)
 - [CS50 P-Shirt](Week%206/shirt.py)
 
+### The Following is WiP:
+
 ### [Week 7](/Week%207/) - [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/)
 - [NUMB3RS]
 - [Watch on YouTube]
