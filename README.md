@@ -62,10 +62,10 @@
 ### The Following is WiP:
 
 ### [Week 6](/Week%206/) - [File I/O](https://cs50.harvard.edu/python/2022/weeks/6/)
-- [Lines of Code]
-- [Pizza Py]
-- [Scourgify]
-- [CS50 P-Shirt]
+- [Lines of Code](Week%206/lines.py)
+- [Pizza Py](Week%206/pizza.py)
+- [Scourgify](Week%206/scourgify.py)
+- [CS50 P-Shirt](Week%206/shirt.py)
 
 ### [Week 7](/Week%207/) - [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/)
 - [NUMB3RS]
